@@ -29,16 +29,16 @@ Open **Git Bash**
 
     cd Desktop
           
-    git clone https://github.com/acse-2019/irp-acse-cq419.git
+    git clone https://github.com/AIChris-Qian/Master-Independent-Research-Project.git
           
 Open **Jupyter Notebook**
 
-    / Desktop / irp-acse-cq419 / Code / Notebook Code
+    / Desktop / Master-Independent-Research-Project/ Code / Notebook Code
     
 
 ### 1. Data Preparation:
 
-   Read data from text file which is in `/ irp-acse-cq419 / Code / data`, then transform it in to `DataFrame` format.
+   Read data from text file which is in `/ Master-Independent-Research-Project / Code / data`, then transform it in to `DataFrame` format.
 
     Index, Hour, Elevation = read_data('../ data / filename')
     print(list_transform_csv(Index, Hour, Elevation, scale, number))
@@ -117,10 +117,10 @@ After finishing compiling the code in the software architecture, to further quan
 
 For **compiling code details**, please refer to `Documentation`
    
-    / irp-acse-cq419 / Code / Documentation 
+    / Master-Independent-Research-Project / Code / Documentation 
     
     
 For **sample testing results**, please refer to `HTML Testing` or `Notebook Testing`
    
-    / irp-acse-cq419 / Code / HTML Testing
-    / irp-acse-cq419 / Code / Notebook Testing
+    / Master-Independent-Research-Project / Code / HTML Testing
+    / Master-Independent-Research-Project / Code / Notebook Testing
