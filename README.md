@@ -1,5 +1,5 @@
-# Master-Independent-Research-Project
-
+# A Machine Learning Approach to the Prediction of Tidal elevation      
+                                                     
 **Installation Instructions:**
 ------------------------------
 
