@@ -1,4 +1,4 @@
-# A Machine Learning Approach to the Prediction of Tidal elevation      
+## A Machine Learning Approach to the Prediction of Tidal elevation      
                                                      
 **Installation Instructions:**
 ------------------------------
