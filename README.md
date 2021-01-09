@@ -1,5 +1,4 @@
 # Master-Independent-Research-Project
-------------------------------
 
 **Installation Instructions:**
 ------------------------------
