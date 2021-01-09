@@ -14,7 +14,7 @@ You may edit this README.md if you choose.
 **Installation Instructions:**
 ------------------------------
 
-![](https://github.com/acse-2019/irp-acse-cq419/blob/master/Code/Figure/logo.png)
+![](https://github.com/AIChris-Qian/Master-Independent-Research-Project/tree/main/Code/Figure/logo.png)
 
 Download **Python3**
 
@@ -28,7 +28,7 @@ Download **Jupyter Notebook**
 **User Guide:**
 ------------------------------
 
-![](https://github.com/acse-2019/irp-acse-cq419/blob/master/Code/Figure/software%20architecture.png)
+![](https://github.com/AIChris-Qian/Master-Independent-Research-Project/tree/main/Code/Figure/software%20architecture.png)
 
 
 The above shown is the **software architecture**, which consists of `Data Preparation`, `Data Processing` and `Experimental Method`.
