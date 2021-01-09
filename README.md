@@ -18,7 +18,7 @@ Download **Jupyter Notebook**
 **User Guide:**
 ------------------------------
 
-![](https://github.com/AIChris-Qian/Master-Independent-Research-Project/tree/main/Code/Figure/software%20architecture.png)
+![](https://github.com/AIChris-Qian/Master-Independent-Research-Project/blob/main/Code/Figure/software%20architecture.png)
 
 
 The above shown is the **software architecture**, which consists of `Data Preparation`, `Data Processing` and `Experimental Method`.
