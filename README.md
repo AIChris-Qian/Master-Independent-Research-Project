@@ -110,7 +110,7 @@ Take the normalized sample data as input data, training it under the built BP ne
 **Performance Analysis:**   
 ------------------------------
 
-After finishing compiling the code in the software architecture, to further quantifying performance between prediction and observation, one new measurement indicator is   introduced, calling the **correlation coefficient**.
+After finishing compiling the code in the software architecture, to further quantifying performance between prediction and observation, one new measurement indicator is   introduced, calling the `correlation coefficient`.
 
     method0 = correlation_coefficient(y_new_data1, y_new_data1)
     method1 = correlation_coefficient(y_new_data, y_new_data1)
