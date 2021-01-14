@@ -45,7 +45,7 @@ Open **Git Bash**
           
 Open **Jupyter Notebook**
 
-    / Desktop / Master-Independent-Research-Project/ Code / Notebook Code
+    / Desktop / Master-Independent-Research-Project / Code / Notebook Code
     
 
 ### 1. Data Preparation:
