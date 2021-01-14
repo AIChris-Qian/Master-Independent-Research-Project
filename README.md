@@ -1,4 +1,15 @@
 ## A Machine Learning Approach to the Prediction of Tidal elevation      
+
+**Abstract:**
+------------------------------
+
+Accurate tidal prediction is of great significance for the effective generation of energy. This project proposes one **prediction model** combining `periodic analysis` and `neural network`, which is called **back propagation (BP)**. By learning the correlation between training samples and training labels, the BP neural network can determine the fitting weight coefficients of the prediction curve. 
+
+In the section of **performance analysis**, consider using `different timescales`, `different tidal observation sites`, and `different types of BP neural network methods` to measure success. To further **quantify** performance, the `correlation coefficient` is introduced as the measurement indicator. The closer the correlation coefficient is to 1, the better the prediction accuracy of the trained neural network will be. 
+
+Experimental results demonstrate that the trained BP neural network model can achieve good prediction accuracy under `small timescale` and `observation points with regular fluctuations`.
+
+
                                                      
 **Installation Instructions:**
 ------------------------------
