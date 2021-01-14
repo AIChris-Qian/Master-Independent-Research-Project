@@ -33,9 +33,7 @@ Download **Jupyter Notebook**
 ![](https://github.com/AIChris-Qian/Master-Independent-Research-Project/blob/main/Code/Figure/software%20architecture.png)
 
 
-The above shown is the **software architecture**, which consists of `Data Preparation`, `Data Processing` and `Experimental Method`.
-
-Afterwards, **open the programme** and **compile the uploaded code**, which will be demonstrated below. 
+The above shown is the **software architecture**, which consists of `Data Preparation`, `Data Processing` and `Experimental Method`. Afterwards, **open the programme** and **compile the uploaded code**, which will be demonstrated below. 
 
 Open **Git Bash**
 
