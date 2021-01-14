@@ -127,11 +127,18 @@ After finishing compiling the code in the software architecture, to further quan
 **Furthermore:**
 ------------------------------
 
+For **detailed research ideas and processes**, please refer to `FinalReport`
+   
+    / Master-Independent-Research-Project / FinalReport
+    
+For **research report display**, please refer to `PowerPoint Presentation`
+   
+    / Master-Independent-Research-Project / PowerPoint Presentation
+    
 For **compiling code details**, please refer to `Documentation`
    
     / Master-Independent-Research-Project / Code / Documentation 
-    
-    
+     
 For **sample testing results**, please refer to `HTML Testing` or `Notebook Testing`
    
     / Master-Independent-Research-Project / Code / HTML Testing
