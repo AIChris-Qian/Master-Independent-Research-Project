@@ -110,7 +110,13 @@ Take the normalized sample data as input data, training it under the built BP ne
 **Performance Analysis:**   
 ------------------------------
 
-After finishing compiling the code in the software architecture, to further quantifying performance between prediction and observation, one new measurement indicator is   introduced, calling the `correlation coefficient`.
+In order to measure the success, considerthe following aspects where the factors affecting the accuracy of the BP neural network.
+    
+    1. Different timescales 
+    2. Different tidal observationsites
+    3. Different types of BP neural network methods
+
+To further quantifying performance between prediction and observation, one new measurement indicator is introduced, calling the `correlation coefficient`.
 
     method0 = correlation_coefficient(y_new_data1, y_new_data1)
     method1 = correlation_coefficient(y_new_data, y_new_data1)
@@ -121,6 +127,19 @@ After finishing compiling the code in the software architecture, to further quan
     ax1.plot(y_new_data1, y_new_data1, 'colour_name', label = '(Actual Line) correlation coefficient: {:.4f}'.format(method0), markersize=5)
     ax1.plot(y_new_data1, y_new_data, 'colour_name', label = '(BP Method) correlation coefficient: {:.4f}'.format(method1), markersize=5)
 
+
+**Discussion:**   
+------------------------------
+
+    1. BP neural network method
+    2. Trend of observation data
+    3. Distribution of observation data
+    
+**Future Work:**   
+------------------------------
+     1. Long-term prediction 
+     2. Trade-off between prediction accuracy and training time
+     3. Continue research data with irregular fluctuations
 
 **Furthermore:**
 ------------------------------
