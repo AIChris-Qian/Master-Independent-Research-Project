@@ -125,9 +125,9 @@ After finishing compiling the code in the software architecture, to further quan
 **Furthermore:**
 ------------------------------
 
-For **detailed research ideas and processes**, please refer to `FinalReport`
+For **detailed research ideas and processes**, please refer to `Report`
    
-    / Master-Independent-Research-Project / FinalReport
+    / Master-Independent-Research-Project / Report
     
 For **research report display**, please refer to `PowerPoint Presentation`
    
