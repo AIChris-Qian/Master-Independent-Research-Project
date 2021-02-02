@@ -1,6 +1,7 @@
 ## A Machine Learning Approach to the Prediction of Tidal elevation 
    by Chen Qian  
    
+`Abstract / Installation Instructions / User Guide / Performance Analysis / Discussion / Future Work / Furthermore`
 
 ------------------------------   
    
