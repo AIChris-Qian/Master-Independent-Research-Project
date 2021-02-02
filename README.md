@@ -1,7 +1,11 @@
 ## A Machine Learning Approach to the Prediction of Tidal elevation 
    by Chen Qian  
+   
 
-**Abstract:**
+------------------------------   
+   
+
+**`[ Abstract ]`**
 ------------------------------
 
 Accurate tidal prediction is of great significance for the effective generation of energy. This project proposes one **prediction model** combining `periodic analysis` and `neural network`, which is called **back propagation (BP)**. By learning the correlation between training samples and training labels, the BP neural network can determine the fitting weight coefficients of the prediction curve. 
@@ -11,8 +15,11 @@ In the section of **performance analysis**, consider using `different timescales
 Experimental results demonstrate that the trained BP neural network model can achieve good prediction accuracy under `small timescale` and `observation points with regular fluctuations`.
 
 
+
+------------------------------
+
                                                      
-**Installation Instructions:**
+**`[ Installation Instructions ]`**
 ------------------------------
 
 ![](https://github.com/AIChris-Qian/Master-Independent-Research-Project/blob/main/Code/Figure/logo.png)
@@ -27,7 +34,10 @@ Download **Jupyter Notebook**
     pip install Matplotlib
 
 
-**User Guide:**
+
+------------------------------
+
+**`[ User Guide ]`**
 ------------------------------
 
 ![](https://github.com/AIChris-Qian/Master-Independent-Research-Project/blob/main/Code/Figure/software%20architecture.png)
@@ -106,8 +116,13 @@ Take the normalized sample data as input data, training it under the built BP ne
     BP_method = twofigure_plot(0, height, x_new_data, y_new_data, 'colour_name', 'Prediction', x_new_data1, y_new_data1, 'colour_name', 'Observation', 'Tidal elevation analysis', True)
     print(BP_method)
     
-    
-**Performance Analysis:**   
+
+
+------------------------------
+
+
+
+**`[ Performance Analysis ]`**   
 ------------------------------
 
 In order to measure the success, considerthe following aspects where the factors affecting the accuracy of the BP neural network.
@@ -128,20 +143,34 @@ To further quantifying performance between prediction and observation, one new m
     ax1.plot(y_new_data1, y_new_data, 'colour_name', label = '(BP Method) correlation coefficient: {:.4f}'.format(method1), markersize=5)
 
 
-**Discussion:**   
+
+------------------------------
+
+
+**`[ Discussion ]`**   
 ------------------------------
 
     1. BP neural network method
     2. Trend of observation data
     3. Distribution of observation data
-    
-**Future Work:**   
+
+
+
+------------------------------
+
+
+
+**`[ Future Work ]`**   
 ------------------------------
      1. Long-term prediction 
      2. Trade-off between prediction accuracy and training time
      3. Continue research data with irregular fluctuations
 
-**Furthermore:**
+
+------------------------------
+
+
+**`[ Furthermore ]`**
 ------------------------------
 
 For **detailed research ideas and processes**, please refer to `Report`
