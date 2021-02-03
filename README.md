@@ -177,18 +177,27 @@ To further quantifying performance between prediction and observation, one new m
 ------------------------------
 
 For **detailed research ideas and processes**, please refer to `Report`
-   
-    / Master-Independent-Research-Project / Report
+  
+[Click Here - Report](https://github.com/AIChris-Qian/Master-Independent-Research-Project/tree/main/Report)
+
     
 For **research report display**, please refer to `PowerPoint Presentation`
-   
-    / Master-Independent-Research-Project / PowerPoint Presentation
+
+[Click Here - PowerPoint Presentation](https://github.com/AIChris-Qian/Master-Independent-Research-Project/tree/main/PowerPoint%20Presentation)
+
     
 For **compiling code details**, please refer to `Documentation`
-   
-    / Master-Independent-Research-Project / Code / Documentation 
+
+
+[Click Here - Documentation](https://github.com/AIChris-Qian/Master-Independent-Research-Project/tree/main/Code/Documentation)
+
+
      
 For **sample testing results**, please refer to `HTML Testing` or `Notebook Testing`
-   
-    / Master-Independent-Research-Project / Code / HTML Testing
-    / Master-Independent-Research-Project / Code / Notebook Testing
+
+
+[Click Here - HTML Testing](https://github.com/AIChris-Qian/Master-Independent-Research-Project/tree/main/Code/HTML%20Testing)
+
+[Click Here - Notebook Testing](https://github.com/AIChris-Qian/Master-Independent-Research-Project/tree/main/Code/Notebook%20Testing)
+
+
